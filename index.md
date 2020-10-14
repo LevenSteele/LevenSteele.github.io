@@ -1,12 +1,21 @@
-## Welcome to GitHub Pages
+## 如果我给你讲Java
 
-You can use the [editor on GitHub](https://github.com/LevenSteele/Thea.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  开始编写这篇博客的原因，是我这个大学混子的又一次卷土重来。不吹不黑，hello，world这个程序我最起码打过10遍。他们大多都是各种教学视频或者资料的开篇。然后，就没有然后了。doge
+  多次尝试又无疾而终，使得我一直找不到一种合适自己的方法去学习编程，尽管我被课业考试甚至毕设压到快死了。（我知道最更本的原因是重度拖延症，在此敬告所有兄弟姐妹拖延症真的要命。。。。）再说下去我可以打个几万字的忏悔书出来。种种压力下，我想到一种也曾经我确实感受到其作用的学习方式。那就是——
+  把你学的东西，用自己的理解，讲给别人听。
+  对，这个听上去挺扯淡的方法但是确实非常有效，在思考如何给别人阐述这个的时候，我的思路会更清晰，并且倾向于去寻找某重潜在的规律，会发现新的问题。于是，就有了这篇博客。也许以这样内容输出的模式会倒逼我学下去。不，是一定要。
+  学习的参考视频来自老毕25天Java基础（对，我也不知道为什么找了这么古早的视频，不过u1s1讲的确实很独特实用，感谢万能的知乎的推荐吧）。我的学习进度大概领先博客进度的一到两天，便于我对已经po出来的内容有更好的掌握度，不至于误人子弟。（如果我说错，请骂我。呸，烦请指出，我确实不会。）
+  本教程带有个人主观思考路径以及方式，如果不科学，那也是没有办法。doge 如果你和我一样是个生活中的混子，希望我的博客能给你带来一点鼓励，从什么时候开始都不晚。
+  往事不可追，混子要起飞。
+  我是翼。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### preparation
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+一台电脑，不要太差，具体我也说不上来，设计硬件知识，挖个坑。（手动标红
+一个脑子
+一支笔
+一本本子
+一杯奶茶/一壶茶
 
 ```markdown
 Syntax highlighted code block
@@ -26,11 +35,16 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LevenSteele/Thea.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 配置环境
+  
+  我并没有将这一步放在preparation里面是因为从开始着手配置环境的时候，对于Java真正意义上的学习就已经开始了。然而大多数课程开始会谁给你一个配置环境的教程，你只需要跟着一步一步操作就可以。我也是这么过来的，然而我并不知道，这么做为了什么？不这么做又会导致什么？
+  托了古早视频的福，老毕的Java编写、编译、运行，都是在cmd窗口去操作和展示结果的。附图。并没有我们今日eclipse，idea等可视化非常高的窗口去操作。这是我醍醐灌顶了配置环境变量等到底是为了什么。
+  key——JDK！JRE！
+  简而言之，JDK里有JRE。JRE包含了JAVA里的运行环境和调用底层所需。JDK比起它多了一层Java所需要的开发工具。
+  我们买来的电脑，是没有默认的jdk或者jre，所以我们要去安装配置它，为了编写和运行Java。
+  是的，在下载时候，我们直接下jdk就可以。jdk目前更新到.8都是比较稳定版本。
 
 ### Support or Contact
 
