@@ -1,5 +1,5 @@
 # 如果我给你讲Java
-
+  
   开始编写这篇博客的原因，是我这个大学混子的又一次卷土重来。不吹不黑，hello，world这个程序我最起码打过10遍。他们大多都是各种教学视频或者资料的开篇。然后，就没有然后了。doge  
   
   多次尝试又无疾而终，使得我一直找不到一种合适自己的方法去学习编程，尽管我被课业考试甚至毕设压到快死了。（我知道最更本的原因是重度拖延症，在此敬告所有兄弟姐妹拖延症真的要命。。。。）再说下去我可以打个几万字的忏悔书出来。种种压力下，我想到一种也曾经我确实感受到其作用的学习方式。那就是——  
@@ -12,41 +12,20 @@
 
 ## preparation
 
-一台电脑，不要太差，具体我也说不上来，设计硬件知识，挖个坑。（手动标红
-一个脑子
-一支笔
-一本本子
+一台电脑，不要太差，具体我也说不上来，设计硬件知识，挖个坑。（手动标红  
+一个脑子  
+一支笔  
+一本本子  
 一杯奶茶/一壶茶
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 
 
 ## 配置环境
   
-  我并没有将这一步放在preparation里面是因为从开始着手配置环境的时候，对于Java真正意义上的学习就已经开始了。然而大多数课程开始会谁给你一个配置环境的教程，你只需要跟着一步一步操作就可以。我也是这么过来的，然而我并不知道，这么做为了什么？不这么做又会导致什么？
-  托了古早视频的福，老毕的Java编写、编译、运行，都是在cmd窗口去操作和展示结果的。附图。并没有我们今日eclipse，idea等可视化非常高的窗口去操作。这是我醍醐灌顶了配置环境变量等到底是为了什么。
-  key——JDK！JRE！
-  简而言之，JDK里有JRE。JRE包含了JAVA里的运行环境和调用底层所需。JDK比起它多了一层Java所需要的开发工具。
-  我们买来的电脑，是没有默认的jdk或者jre，所以我们要去安装配置它，为了编写和运行Java。
+  我并没有将这一步放在preparation里面是因为从开始着手配置环境的时候，对于Java真正意义上的学习就已经开始了。然而大多数课程开始会谁给你一个配置环境的教程，你只需要跟着一步一步操作就可以。我也是这么过来的，然而我并不知道，这么做为了什么？不这么做又会导致什么？  
+  托了古早视频的福，老毕的Java编写、编译、运行，都是在cmd窗口去操作和展示结果的。附图。并没有我们今日eclipse，idea等可视化非常高的窗口去操作。这是我醍醐灌顶了配置环境变量等到底是为了什么。  
+  key——JDK！JRE！  
+  简而言之，JDK里有JRE。JRE包含了JAVA里的运行环境和调用底层所需。JDK比起它多了一层Java所需要的开发工具。  
+  我们买来的电脑，是没有默认的jdk或者jre，所以我们要去安装配置它，为了编写和运行Java。  
   是的，在下载时候，我们直接下jdk就可以。jdk目前更新到.8都是比较稳定版本。
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
